@@ -1,0 +1,12 @@
+
+Deleted - Post ID 1198 - attachment - home-new-bg-free-img
+Deleted - Post ID 1206 - attachment - banner-04
+Deleted - Post ID 1309 - attachment - product-accessory2
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'Sainath Bakery' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing MISC ----
+Batch Process Complete!

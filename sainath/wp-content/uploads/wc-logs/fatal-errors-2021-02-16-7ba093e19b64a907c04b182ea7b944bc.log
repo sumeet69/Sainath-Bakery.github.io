@@ -1,0 +1,6 @@
+2021-02-16T16:57:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\XAMPP\htdocs\sainath\wp-includes\formatting.php on line 2139
+
+2021-02-16T17:11:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\XAMPP\htdocs\sainath\wp-includes\class-wp-image-editor-gd.php on line 198
+
+2021-02-16T17:15:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\XAMPP\htdocs\sainath\wp-includes\class-wp-image-editor-gd.php on line 198
+
